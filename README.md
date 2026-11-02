@@ -1,5 +1,5 @@
 # Ranong-Canyon
-An interactive 3D site atlas of Ranong Canyon, a post-extractive pond site in Ranong, Thailand. It runs as a single self-contained HTML file in a black-and-white, greyscale style.
+An interactive 3D site atlas of Ranong Canyon, a post-extractive pond site in Ranong, Thailand.
 
 ## What it shows
 
