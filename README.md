@@ -14,7 +14,7 @@ An interactive 3D site atlas of Ranong Canyon, a post-extractive pond site in Ra
 
 The model uses slope-driven soil transport and conserves soil: whatever leaves a slope is deposited downslope or in the pond. The default rate is a placeholder, so the results are **uncalibrated** and should be read as a scenario, not a forecast. Set the rate slider to match local observations of how fast the shoreline has moved.
 
-## Data and tech
+## Data
 
 - Source geometry is exported from Rhino: topography mesh (OBJ), water (OBJ), contours and road (DXF), and tree points (CSV).
 - The geometry is processed in Python, then embedded in the page.
